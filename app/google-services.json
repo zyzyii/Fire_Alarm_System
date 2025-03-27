@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481871269711",
+    "project_id": "firealarmsystem-26d0c",
+    "storage_bucket": "firealarmsystem-26d0c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481871269711:android:fd88b2a8857701b8317f3a",
+        "android_client_info": {
+          "package_name": "com.example.fire_alarm_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0jVBYIk5oOYFlf2IGJQgbpT4dAB2tQ8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
